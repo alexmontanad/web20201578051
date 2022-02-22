@@ -21,7 +21,7 @@
                     </div>
                     <form action="SesionCTO?accion=validar" method="POST" class="col-12">
                         <div class="form-group text-center">
-                            <p>Bienvenido</p>
+                            <p>Bienvenido al sistema</p>
                         </div>
                         <div class="form-group">
                             <label>Usuario:</label>
